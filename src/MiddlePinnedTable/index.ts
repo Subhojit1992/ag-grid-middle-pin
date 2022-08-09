@@ -1,0 +1,1 @@
+export {default as MiddlePinnedTable} from './MiddlePinnedTable';
